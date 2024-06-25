@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.sourcelink.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\bin\Debug\net8.0\duas somas.exe
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\bin\Debug\net8.0\duas somas.deps.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\bin\Debug\net8.0\duas somas.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\bin\Debug\net8.0\duas somas.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\bin\Debug\net8.0\duas somas.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\refint\duas somas.dll
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.pdb
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\duas somas.genruntimeconfig.cache
+C:\Users\Jhonatan\Desktop\Jhon\ESTRUDO DE LOGICA DE PROGRAMAÇÃO\duas somas\obj\Debug\net8.0\ref\duas somas.dll
